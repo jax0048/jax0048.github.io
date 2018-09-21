@@ -1,0 +1,8 @@
+---
+title: "My Website"
+---
+
+Hello, Website!
+This is a website and an image.
+
+![my website](https://cbsnews2.cbsistatic.com/hub/i/r/2016/11/11/06c8d524-ce5f-4adf-add9-41f281043875/thumbnail/620x350/8736771fba26025a1395df2d1ea1a69d/penn.jpg)
